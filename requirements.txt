@@ -1,1 +1,4 @@
-pyTelegramBotAPI
+python-telegram-bot==20.4
+Flask==2.3.2
+Pillow==9.5.0
+requests==2.31.0
